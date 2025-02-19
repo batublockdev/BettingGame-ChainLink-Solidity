@@ -1,6 +1,9 @@
 # HigherOrLower Betting Game Contract - README
 ## Overview
 
+##Contract address:
+0x5b7199b4301E8f9290aa30fAbee5249Ca8dc6B06
+
 The HigherOrLower contract is a decentralized betting game built in Solidity that allows players to bet on whether the next randomly drawn card will be higher, equal, or lower than the previous card. The game incorporates Chainlink VRF (Verifiable Random Function) to generate a secure random number for the card draws.
 
 In addition to the players, there are investors (owners) who contribute funds to the game, and their investment is proportional to their share of the winnings when a player loses their bet. The owners also benefit by receiving a percentage of the player's bet when the player loses.
